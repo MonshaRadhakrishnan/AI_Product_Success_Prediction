@@ -1,0 +1,74 @@
+tool_id,tool_name,category,launch_year,age_years,pricing_model,access_method,open_source,github_stars,google_trends_score,monthly_web_visits_k,api_available,integration_count,user_friendliness_score,marketing_effort_score,ecosystem_score,retention_proxy,enterprise_features,success_label
+1,ChatGPT,consumer_ai,2016,9,subscription,api,True,897,55,49250,True,10,7.2,5.2,7.3,0.73,False,1
+2,Claude,creative_ai,2018,7,free,cli,True,0,15,37854,True,3,5.8,6.6,5.1,0.45,True,0
+3,Perplexity,productivity_ai,2016,9,usage_based,web_app,False,0,52,7478,True,3,5.4,1.2,4.7,0.61,False,1
+4,Midjourney,consumer_ai,2015,10,freemium,api,True,0,66,14941,True,1,5.6,4.9,4.8,0.59,False,1
+5,Stable Diffusion,productivity_ai,2023,2,free,cli,True,0,23,31296,True,2,6.8,7.3,4.0,0.37,False,0
+6,DALL·E,ml_platform,2018,7,enterprise,ide_plugin,False,6658,19,2626,True,10,5.5,6.7,8.1,0.62,True,1
+7,Adobe Firefly,enterprise_ai,2018,7,enterprise,desktop_app,True,0,57,58955,True,12,7.7,8.2,5.9,0.59,False,1
+8,Runway,creative_ai,2015,10,usage_based,desktop_app,False,0,39,56349,True,0,5.9,5.4,3.2,0.48,True,0
+9,ElevenLabs,creative_ai,2019,6,freemium,desktop_app,False,33462,77,90569,True,6,5.3,4.5,7.8,0.63,True,1
+10,Synthesia,consumer_ai,2016,9,usage_based,web_app,True,0,21,5107,True,4,5.9,2.6,6.6,0.65,False,1
+11,Descript,developer_ai,2020,5,enterprise,desktop_app,False,0,49,14317,True,0,6.8,1.5,4.1,0.67,True,1
+12,Pika Labs,ml_platform,2015,10,usage_based,cli,True,0,72,10853,False,9,6.6,10.0,5.6,0.45,True,0
+13,Hugging Face,enterprise_ai,2016,9,free,cli,False,3096,51,45274,True,3,8.6,8.3,4.2,0.51,False,0
+14,Weights & Biases,ml_platform,2019,6,enterprise,desktop_app,False,0,42,4817,False,2,7.5,3.1,7.1,0.66,False,1
+15,LangChain,creative_ai,2024,1,free,web_app,False,1465,21,17182,False,10,7.7,3.0,6.5,0.76,False,0
+16,LlamaIndex,developer_ai,2018,7,free,api,True,0,55,202,True,3,6.9,6.2,4.6,0.52,False,0
+17,Pinecone,enterprise_ai,2016,9,subscription,ide_plugin,True,20585,69,42872,False,7,8.1,8.2,7.5,0.57,True,1
+18,OpenAI API,creative_ai,2020,5,subscription,desktop_app,False,0,100,27131,True,6,4.4,4.0,7.8,0.58,False,1
+19,Anthropic API,ml_platform,2018,7,subscription,web_app,True,0,59,132549,False,5,4.9,6.5,5.6,0.49,True,0
+20,Cohere,ml_platform,2024,1,freemium,cli,False,0,62,4089,False,13,8.1,4.8,4.1,0.54,False,0
+21,Tabnine,creative_ai,2018,7,usage_based,ide_plugin,False,0,22,66294,False,2,6.6,3.2,6.7,0.68,False,1
+22,Replit Ghostwriter,ml_platform,2019,6,enterprise,api,False,0,54,16499,True,6,6.5,7.2,8.9,0.64,True,1
+23,GitHub Copilot,consumer_ai,2020,5,freemium,web_app,True,0,40,5435,True,10,5.8,5.7,10.0,0.6,False,1
+24,Cursor,enterprise_ai,2020,5,subscription,web_app,False,0,50,15600,False,7,7.3,3.0,10.0,0.91,True,1
+25,DeepCode,productivity_ai,2018,7,subscription,api,False,2551,56,50153,False,0,5.3,5.3,7.0,0.6,True,1
+26,Notion AI,enterprise_ai,2022,3,usage_based,api,False,0,58,25711,True,9,9.7,7.6,3.0,0.49,False,0
+27,Zoom AI,creative_ai,2019,6,freemium,cli,False,0,47,39324,True,4,4.6,5.3,2.0,0.27,False,0
+28,Otter.ai,developer_ai,2023,2,enterprise,ide_plugin,True,0,52,19652,False,8,5.0,6.4,6.4,0.47,False,0
+29,Grammarly,enterprise_ai,2024,1,subscription,api,False,1078,55,2953,True,3,7.5,5.6,6.9,0.63,False,0
+30,Microsoft Copilot,productivity_ai,2017,8,usage_based,web_app,False,0,37,7813,False,9,5.6,4.8,7.9,0.69,False,1
+31,Salesforce Einstein,consumer_ai,2015,10,freemium,api,True,0,45,55591,False,10,6.5,5.7,8.6,0.63,True,1
+32,ServiceNow AI,productivity_ai,2021,4,free,ide_plugin,False,163,56,120317,False,5,6.5,7.4,5.0,0.52,False,0
+33,SAP Joule,productivity_ai,2021,4,usage_based,cli,False,0,36,31898,True,5,3.8,4.6,8.4,0.51,False,0
+34,Oracle AI,productivity_ai,2019,6,free,web_app,False,1317,41,69007,False,6,5.3,4.9,6.8,0.53,True,0
+35,IBM Watson,developer_ai,2023,2,subscription,web_app,False,0,67,4715,True,5,4.3,2.7,4.6,0.48,True,0
+36,AWS Bedrock,enterprise_ai,2019,6,freemium,ide_plugin,False,0,21,81180,True,2,5.5,5.4,8.5,0.66,False,1
+37,Azure AI Studio,ml_platform,2015,10,subscription,cli,False,0,79,24245,False,9,6.8,5.5,6.2,0.54,False,0
+38,Google Vertex AI,productivity_ai,2017,8,free,desktop_app,True,0,70,3236,False,0,6.3,7.5,3.1,0.43,False,0
+39,DataRobot,productivity_ai,2023,2,freemium,api,False,36274,64,21668,False,11,7.0,9.3,7.9,0.54,False,0
+40,H2O.ai,creative_ai,2020,5,enterprise,cli,False,0,47,21433,True,10,8.3,4.6,2.6,0.59,True,1
+41,AutoGPT,productivity_ai,2015,10,subscription,ide_plugin,False,0,43,5531,False,0,6.9,6.1,9.0,0.7,False,1
+42,BabyAGI,consumer_ai,2015,10,subscription,desktop_app,True,0,81,29372,False,6,7.6,3.3,2.9,0.6,False,1
+43,PromptPerfect,consumer_ai,2018,7,freemium,cli,True,0,79,9579,True,9,8.0,5.8,4.0,0.52,True,0
+44,PromptLayer,consumer_ai,2016,9,usage_based,web_app,False,10822,40,38923,False,11,8.1,2.0,3.6,0.52,False,0
+45,Flowise,creative_ai,2023,2,freemium,ide_plugin,False,15052,47,5519,True,5,3.9,5.4,6.8,0.49,True,0
+46,AI Dungeon,creative_ai,2023,2,subscription,cli,False,0,30,8542,True,8,7.0,3.6,5.0,0.54,True,0
+47,Character AI,enterprise_ai,2024,1,freemium,cli,False,0,47,64259,False,6,5.3,4.4,3.1,0.42,True,0
+48,LogoAI,ml_platform,2018,7,subscription,ide_plugin,True,6941,97,18412,True,4,6.3,5.1,7.2,0.65,False,1
+49,ResumeGPT,enterprise_ai,2020,5,enterprise,ide_plugin,True,0,17,12546,True,6,7.4,6.1,10.0,0.8,True,1
+50,AI Resume Writer,creative_ai,2016,9,freemium,web_app,False,0,71,27601,True,8,4.9,4.2,4.5,0.45,False,0
+51,OneClick Avatar,consumer_ai,2020,5,enterprise,cli,True,15573,11,172247,False,9,8.8,6.6,3.9,0.53,True,0
+52,Voice AI Pro,productivity_ai,2018,7,freemium,web_app,True,0,50,21132,False,2,5.5,4.5,4.8,0.46,True,0
+53,AI NFT Generator,ml_platform,2016,9,free,api,True,16568,51,33909,True,9,7.1,5.3,6.5,0.62,False,1
+54,Generic Chatbot Pro,consumer_ai,2016,9,subscription,web_app,True,14147,62,6706,True,0,5.7,3.5,6.6,0.46,False,0
+55,Meeting Summary AI,creative_ai,2023,2,subscription,ide_plugin,False,0,35,21230,True,15,6.3,4.7,4.8,0.56,False,1
+56,Marketing Copy AI,productivity_ai,2018,7,freemium,cli,False,0,56,9007,True,4,7.1,4.3,6.2,0.61,True,1
+57,SEO Content AI,enterprise_ai,2024,1,freemium,ide_plugin,False,25441,9,24846,True,1,7.3,7.6,1.6,0.38,False,0
+58,Fraud Detection AI,creative_ai,2021,4,free,web_app,False,0,32,112424,False,7,4.1,5.5,5.5,0.49,True,0
+59,HR Screening AI,developer_ai,2021,4,usage_based,ide_plugin,False,0,40,11426,False,2,7.0,4.7,7.3,0.77,True,1
+60,Legal Contract AI,ml_platform,2022,3,free,web_app,False,28106,44,63840,True,2,8.8,6.3,5.3,0.65,True,1
+61,Medical Diagnosis AI,enterprise_ai,2015,10,subscription,web_app,False,6362,14,24796,False,11,7.9,7.4,8.8,0.73,True,1
+62,Supply Chain AI,creative_ai,2018,7,freemium,cli,False,0,85,102298,False,8,6.8,10.0,5.6,0.45,True,0
+63,Pricing Optimization AI,creative_ai,2022,3,usage_based,api,False,0,30,167566,False,5,9.3,8.2,9.2,0.71,True,1
+64,Customer Support AI,enterprise_ai,2019,6,freemium,web_app,True,0,67,100957,True,0,10.0,6.5,4.8,0.62,True,1
+65,Email Automation AI,productivity_ai,2022,3,free,web_app,True,10348,66,18001,False,5,6.0,8.8,5.5,0.36,False,0
+66,Sales Forecast AI,consumer_ai,2023,2,free,api,True,0,53,9183,True,5,6.1,3.3,10.0,0.76,True,1
+67,Recommendation Engine AI,enterprise_ai,2017,8,usage_based,ide_plugin,False,0,26,8032,False,6,10.0,3.3,8.8,0.74,False,1
+68,Document Search AI,enterprise_ai,2018,7,free,api,True,18880,48,10039,True,6,4.4,3.9,3.8,0.52,False,0
+69,Video Subtitle AI,consumer_ai,2021,4,usage_based,desktop_app,True,19216,54,20245,False,7,5.7,6.5,3.6,0.44,True,0
+70,Speech-to-Text AI,developer_ai,2022,3,usage_based,cli,False,0,39,12013,True,10,7.4,4.9,6.7,0.58,False,1
+71,Image Upscaler AI,creative_ai,2022,3,freemium,desktop_app,False,44479,39,81140,True,7,7.6,2.7,8.5,0.67,False,1
+72,Face Swap AI,consumer_ai,2018,7,enterprise,cli,True,27020,50,7534,True,7,6.0,8.2,10.0,0.67,True,1
+73,Music Generator AI,ml_platform,2015,10,subscription,web_app,False,165,55,36703,False,9,4.1,6.6,10.0,0.63,True,1
